@@ -1,0 +1,7 @@
+# This is a potential workaround for https://github.com/ros-infrastructure/answers.ros.org/issues/110. 
+# Suggestion for message content for who ask questions on answers.ros.org. 
+# Intended only for reviewing purpose; this should not be merged into ros-infrastructure/answers.ros.org
+
+- Ask a question interesting to this community. Be clear and concise. Provide enough details.
+- Guidelines for asking questions can be found at wiki.ros.org/Support.
+- Output of the command: `lsb_release -a && lscpu && env | grep ROS && roswtf`
